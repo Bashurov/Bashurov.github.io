@@ -1,0 +1,115 @@
+@import url(reset.css);
+
+#wrapper {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#header {
+    height: 76px;
+    background-color: #e1dcc7;
+    position: relative;
+}
+
+#header h1 {
+    font: 82px Vivaldi, cursive;
+    color: #3c3524;
+    position: absolute;
+    left: 120px;
+    z-index: 1;
+}
+
+#lineGrey {
+    height: 3px;
+    background-repeat: repeat-x;
+    background-image: url(../images/lineGrey.png);
+}
+
+#menu {
+    top: 35px;
+    left: 785px;
+    position: absolute;
+}
+
+#menu, #menu a {
+    font: bold 14px Areal, sans-serif;
+    color: #7e7569;
+    text-decoration: none;
+}    
+    
+#content {
+    height: 601px;
+    background-image: url(../images/contentBg.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
+}
+
+#content h3 {
+    font: 28px Vivaldi, cursive;
+    color: #3c3524;
+    margin: 10px 0 15px 0;
+}
+
+#content p {
+    font: bold 16px Areal, sans-serif;
+    color: #3c3524;
+}
+
+#blog1, #blog2 {
+    width: 615px;
+    padding: 0 10px 5px 0px;
+    position: absolute;
+    float: right;
+    overflow: hidden;
+}
+
+#blog1 {
+margin: 10px 34px;
+}
+
+#blog2 {
+margin: 195px 34px;
+}
+
+#blog3 {
+    height: 180px;
+    width: 400px;
+    padding: 0 10px 5px 0;
+    margin:383px 0 0 248px;
+    position: absolute;
+    float: right;
+    overflow: hidden;
+}
+
+#ring {
+    height: 148px;
+    width: 184px;
+    background-image: url(../images/ring.png);
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 34px;
+    bottom: 50px;
+}
+
+#girl {
+    height: 601px;
+    width: 353px;
+    right: 0;
+    background-image: url(../images/girl.png);
+    position: absolute;
+    background-repeat: no-repeat;
+    margin-left: 15px;
+}
+
+#footer {
+    height: 69px;
+    background-color: #e1dcc7;
+}
+
+#footer p {
+    font: bold 10px Areal, sans-serif;
+    color: #7e7569;
+    text-align: center;
+    padding-top: 30px;
+}
