@@ -4,7 +4,7 @@
 
 Web-сайты
 
-[MedTorg-ES](https://bashurov.github.io/out/ "MedTorg-ES")
+[Medik](https://bashurov.github.io/medik/ "Medik")
 
 Мои первые работы
 
