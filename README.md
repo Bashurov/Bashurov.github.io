@@ -17,7 +17,7 @@ Web-сайты
 
 Разное
 
-[Alexandr-animation](https://bashurov.github.io/Alexandr-animation "Анимация имени") - Вариант анимации имени
+[Alexandr-animation](https://bashurov.github.io/Alexandr-animation/ "Анимация имени") - Вариант анимации имени
 
 
 
